@@ -1,0 +1,38 @@
+TIC TAC TOE
+
+1) How many people are playing
+	1) Max of 2 people can playing
+	2) How do we know whos playing
+		1) Setup player class
+		2) Have a screen which has player select X's or O's
+
+2) How to tell whos turn it is
+	1) When one goes, its the others turn. Thats it.
+		
+3) How do you win
+	1) Someone gets 3 x's or o's in a row
+	2) No one wins because all spaces are taken up
+
+4) What do you do after you win
+	1) Ask to restart game or exit
+	
+Main Menu Form
+	Add player button/ Label
+	Settings button (do nothing right now)
+	Start button (greyed out until 2 players are added
+	Exit button
+
+Add Player Form
+	Player name
+	Player Icon/ Symbol
+	
+Game Screen Form
+	Game Grid
+		Buttons or Labels with borders of whatever color to form grid
+		controls will be fixed size and only allow clicking
+	Player names label (left and right)
+	Some sort of indicator of whos turn (highlight name?)
+	
+
+End Screen Form
+
